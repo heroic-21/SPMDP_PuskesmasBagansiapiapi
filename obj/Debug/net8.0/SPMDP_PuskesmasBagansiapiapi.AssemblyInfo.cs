@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SPMDP_PuskesmasBagansiapiapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b826e7f5147c1b533c9211bf1d44ed60d0a79825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a00164b3d504b31a1bfd09126d76ff28c94bfb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SPMDP_PuskesmasBagansiapiapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SPMDP_PuskesmasBagansiapiapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
